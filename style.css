@@ -1,83 +1,10 @@
-/* body {
-    font-family: Arial, sans-serif;
-    max-width: 800px;
-    margin: 40px auto;
-    padding: 0 20px;
-    background-color: #f9f9f9;
-    color: #333;
-    line-height: 1.6;
-  }
-
-  .container {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
-    font-family: sans-serif;
-  }
-  .video-container {
-    position: relative;
-    padding-bottom: 56.25%;
-    height: 0;
-    overflow: hidden;
-    margin: 20px 0;
-  }
-  .video-container iframe {
-    position: absolute;
-    top: 0; left: 0;
-    width: 100%;
-    height: 100%;
-    border: none;
-  }
-  .screenshots {
-    display: flex;
-    gap: 10px;
-    margin: 20px 0;
-  }
-  .screenshots img {
-    width: 100%;
-    max-width: 240px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-  }
-  .usage {
-    margin-top: 20px;
-    line-height: 1.6;
-  }
-  
-  h1 {
-    color: #2c3e50;
-    border-bottom: 2px solid #ccc;
-    padding-bottom: 10px;
-  }
-  
-  a {
-    color: #007bff;
-    text-decoration: none;
-    margin-right: 15px;
-  }
-  
-  a:hover {
-    text-decoration: underline;
-  }
-  
-  ul {
-    padding-left: 20px;
-  }
-  
-  footer {
-    margin-top: 40px;
-    text-align: center;
-    font-size: 14px;
-    color: #888;
-  }
-   */
    body {
     font-family: Arial, sans-serif;
     max-width: 800px;
     margin: 40px auto;
     padding: 0 20px;
-    background-color: #1e1e1e; /* почти чёрный */
-    color: #ffd700; /* золотисто-жёлтый */
+    background-color: #1e1e1e;
+    color: #ffd700;
     line-height: 1.6;
   }
   
@@ -156,4 +83,3 @@
     font-size: 14px;
     color: #aaa;
   }
-  
